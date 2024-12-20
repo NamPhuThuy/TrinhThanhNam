@@ -4,4 +4,5 @@
 - Mã sinh viên: <>
 
 - Chụp bài thực hành 
-[](img.png)
+
+!["something"](img.png)
