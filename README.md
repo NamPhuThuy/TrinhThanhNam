@@ -1,4 +1,4 @@
 # TrinhThanhNam
-- Họ tên:
-- Lớp-Khóa:
-- Mã sinh viên:
+- Họ tên: <>
+- Lớp-Khóa: <>
+- Mã sinh viên: <>
